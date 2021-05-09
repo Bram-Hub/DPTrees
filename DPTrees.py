@@ -3,7 +3,6 @@ from tkinter import messagebox
 from tkinter import Canvas
 import subprocess
 
-#It actually works!
 root = Tk()
 root.geometry("300x300")
 root.title("DPTrees")
