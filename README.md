@@ -1,2 +1,2 @@
 # DPTrees
-Draw trees using Davis-Putnam Algorithm
+This program draws trees using Davis-Putnam Algorithm
